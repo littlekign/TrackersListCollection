@@ -16,11 +16,7 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ftp.pet:2710/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
-
-http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -82,6 +78,8 @@ https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
 
+https://tracker.bt4g.com:443/announce
+
 https://tracker.bug38.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -99,6 +97,8 @@ https://tracker.onetracker.net:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
